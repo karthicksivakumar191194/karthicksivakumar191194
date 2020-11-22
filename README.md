@@ -12,12 +12,14 @@
 
 Hi, Im Karthick - a **web developer**  building some real stuff through code .
 
+**PHP** | **Laravel** | **Wordpress** | **JavaScript** | **TypeScript** | **React** | **Express** | **MySql** | **Git** | **Plugin & Package Development**
+
+------------
+
 **My Open Source Packages**
 
 [![Packagist][1.1]][1]
 [![NPM][2.1]][2]
-
-------------
 
 **Online Code Snippets**
 - https://codesandbox.io/u/karthicksivakumar191194
