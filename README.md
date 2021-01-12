@@ -24,3 +24,6 @@ Hi, Im Karthick - a **web developer**  building some real stuff through code .
 **Online Code Snippets**
 - https://codesandbox.io/u/karthicksivakumar191194
 - https://codepen.io/karthicksivakumar
+
+**API Gateway**
+- https://gist.github.com/karthicksivakumar191194/18fd59198d736dc55677c1458b15ea62
