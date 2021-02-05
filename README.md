@@ -26,4 +26,8 @@ Hi, Im Karthick - a **web developer**  building some real stuff through code .
 - https://codepen.io/karthicksivakumar
 
 **API Gateway**
-- https://gist.github.com/karthicksivakumar191194/18fd59198d736dc55677c1458b15ea62
+- https://gist.github.com/karthicksivakumar191194/18fd59198d736dc55677c1458b15ea62(Doc URL)
+
+**Custom Widget**
+- https://karthicksivakumar191194.github.io/snapchat/snapchat_demo.html(Demo URL)
+- https://gist.github.com/karthicksivakumar191194/5c719dcf6cc4b037fc62f4156549fcf5(Doc URL)
