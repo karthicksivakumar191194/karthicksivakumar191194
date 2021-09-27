@@ -1,25 +1,27 @@
 <!-- icons  -->
-
-[1.1]: https://github.com/karthicksivakumar191194/karthicksivakumar191194/blob/master/assets/icons/packagist-48.png (Packagist)
-[2.1]: https://github.com/karthicksivakumar191194/karthicksivakumar191194/blob/master/assets/icons/npm-48.png (NPM)
+[1.1]: https://github.com/karthicksivakumar191194/karthicksivakumar191194/blob/master/assets/icons/wp-48.png (WP)
+[2.1]: https://github.com/karthicksivakumar191194/karthicksivakumar191194/blob/master/assets/icons/packagist-48.png (Packagist)
+[3.1]: https://github.com/karthicksivakumar191194/karthicksivakumar191194/blob/master/assets/icons/npm-48.png (NPM)
 
 <!-- links to my social media accounts -->
 
-[1]: https://packagist.org/packages/larasnap/
-[2]: https://www.npmjs.com/~karthicksivakumar
+[1]: https://wordpress.org/plugins/recurring-daily-countdown/
+[2]: https://packagist.org/packages/larasnap/
+[3]: https://www.npmjs.com/~karthicksivakumar
 
 # ❤  to Build - Web Developer!
 
-Hi, Im Karthick - a **web developer**  building some real stuff through code .
+Hi, Im Karthick - a **web developer**  building some real stuff through code.
 
 **PHP** | **Laravel** | **Wordpress** | **JavaScript** | **TypeScript** | **React** | **Express** | **MySql** | **Git** | **Plugin & Package Development**
 
 ------------
 
-**My Open Source Packages**
+**My Open Source Plugins & Packages**
 
-[![Packagist][1.1]][1]
-[![NPM][2.1]][2]
+[![WP][1.1]][1]
+[![Packagist][2.1]][2]
+[![NPM][3.1]][3]
 
 **Online Code Snippets**
 - https://codesandbox.io/u/karthicksivakumar191194
