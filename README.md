@@ -30,7 +30,11 @@ Hi, Im Karthick - a **web developer**  building some real stuff through code.
 **API Gateway**
 - https://gist.github.com/karthicksivakumar191194/18fd59198d736dc55677c1458b15ea62 (Doc URL)
 
-**Custom Widget**
+**Mini JS - Custom Small Frontend Framework**
+- https://karthicksivakumar191194.github.io/mini-js-demo/ (Demo URL)
+- https://karthicksivakumar191194.github.io/mini-js/ (Doc URL)
+
+**Custom Contact Form Widget - Widget which can be embeded on any site to get Contact Form with 3 lines of code snippet**
 - https://karthicksivakumar191194.github.io/snapchat/snapchat_demo.html (Demo URL)
 - https://gist.github.com/karthicksivakumar191194/5c719dcf6cc4b037fc62f4156549fcf5 (Doc URL)
 
