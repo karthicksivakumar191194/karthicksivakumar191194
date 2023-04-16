@@ -13,7 +13,7 @@
 
 Hi, Im Karthick - a **web developer**  building some real stuff through code.
 
-**PHP** | **Laravel** | **Wordpress** | **JavaScript** | **TypeScript** | **React** | **Express** | **MySql** | **Git** | **Plugin & Package Development**
+**Python** | **Django** | **PHP** | **Laravel** | **Wordpress** | **JavaScript** | **TypeScript** | **React** | **Express** | **MySql** | **Git** | **Plugin & Package Development**
 
 ------------
 
